@@ -1,0 +1,38 @@
+:root {
+	--midnight-purple: #3f1046;
+	--green: #2bd872;
+	--sand: #f7efe3;
+	--blue: #37bcff;
+	--pink: #ff5292;
+	--purple: #c67aff;
+	--yellow: #ffc540;
+	--orange: #fa7641;
+}
+body {
+	background-color: --pink;
+}
+
+.Instructions {
+	display: flex;
+	flex-flow: wrap row;
+	border: 5px solid #2bd872;
+	border-radius: 16px;
+	background-color: #3f1046;
+	padding: 1rem;
+	font-family: "Space Grotesk", sans-serif;
+	color: #2bd872;
+}
+.Instructions p {
+	width: 40%;
+	font-family: "Space Grotesk", sans-serif;
+	margin: 0.5rem 1rem;
+}
+
+.Instructions div {
+	display: flex;
+	flex-flow: wrap row;
+}
+
+.Instructions h2 {
+	margin: 0.5rem;
+}
