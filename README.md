@@ -52,7 +52,7 @@ tinker and achieve the Instructions goals
    their content? Demo passing a prop - child names  
    **Tinkering point**
 8. This is long-winded - what would be DRY-er? Some sort of loop. And data in
-   some sort of array. Demo .map  
+   some sort of array. Demo `.map`  
    **Tinkering point**
 9. And, another day, we don't mind static pages but one of React's super-powers
    is dynamic pages that respond to the user - like the button we saw when we
